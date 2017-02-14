@@ -1,0 +1,6 @@
+framework module Pods_Study_Buddies {
+  umbrella header "Pods-Study Buddies-umbrella.h"
+
+  export *
+  module * { export * }
+}
